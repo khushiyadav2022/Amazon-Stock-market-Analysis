@@ -29,7 +29,7 @@ improve the plot by resizing, giving appropriate labels and adding grid lines fo
 better readability.
 
 Summary<br>
-- Stock analysis is a process followed by traders to evaluate and understand the value of a security or the stock market.
-- Stock analysis follows the idea that analysts can create methodologies to select stocks by studying past and present data.
-- Fundamental analysis and technical analysis are two broad types of stock analysis.
-[Notebook]()
+- Stock analysis is a process followed by traders to evaluate and understand the value of a security or the stock market.<br>
+- Stock analysis follows the idea that analysts can create methodologies to select stocks by studying past and present data.<br>
+- Fundamental analysis and technical analysis are two broad types of stock analysis.<br>
+[Notebook](https://github.com/khushiyadav2022/Amazon-Stock-market-Analysis/blob/1b277f731c0e5bc0b9a4aed815174cd691970b8b/amazon-stock-market-analysis%20(1).ipynb)
