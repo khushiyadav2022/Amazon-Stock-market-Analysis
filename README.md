@@ -13,6 +13,7 @@ frequencies are 1d, 5d, 1mo, 3mo, 6mo, 1y, 2y, 5y, 10y, ytd, max
 5m, 15m, 30m, 60m, 90m, 1h, 1d, 5d, 1wk, 1mo, 3mo
 
 2 - Resample Stock Data<br>
+
 Convert 1-minute data to 1-hour data or Resample Stock Data 
 During strategy modelling, you might be required to work with a custom frequency of
 stock market data such as 15 minutes or 1 hour or even 1 month.
@@ -23,6 +24,7 @@ data to the frequency of your choice. The implementation of these is shown below
 where 1-minute frequency data is converted to 10-minute frequency data.
 
 3 - Visualizing the Stock Data using matplotlib<br>
+
 To visualize the adjusted close price data, you can use the matplotlib library and
 plot method.
 improve the plot by resizing, giving appropriate labels and adding grid lines for
