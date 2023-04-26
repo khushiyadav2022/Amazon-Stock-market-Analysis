@@ -1,5 +1,6 @@
 # Amazon-Stock-market-Analysis
 Helps traders to gain an insight into the economy, stock market, or securities. 
+![](https://s.yimg.com/ny/api/res/1.2/y8I7aZoMZw8.x48DfNfukQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://s.yimg.com/os/creatr-uploaded-images/2022-02/36bc0650-8615-11ec-95f2-4652475af18e)
 
 **STOCK MARKET DATA & VISUALISATION**<br>
 
